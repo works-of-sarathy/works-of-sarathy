@@ -1,26 +1,24 @@
-👋 Hello, I'm **Satagopan Gopalakrishnan!**
-You can call me **Sarathy**. 
-I am currently pursuing a Bachelor’s in Computer Applications (BCA) at SASTRA Deemed University. 
-My academic journey is a unique fusion of traditional Vedic studies and modern computer science. 
-I have been honored with the title of ‘Veda-Vibhushan’ by HRD Ministry, Govt of India, after completing the Krishna-Yajur Veda course at Raja Veda Kavya Patasala.
+# 👋🏻 Hello, I'm **Satagopan Gopalakrishnan!**
 
-💻 Tech Enthusiast | Aspiring Software Developer
+You can call me **Sarathy**.
+
+I am currently pursuing a **Bachelor’s in Computer Applications (BCA)** at **SASTRA Deemed University**.
+My academic journey is a unique fusion of **traditional Vedic studies** and **modern computer science**.
+I was honored with the title of *“Veda-Vibhushan”* by the **HRD Ministry, Govt. of India**, after completing the **Krishna-Yajur Veda course** at Raja Veda Kavya Patasala.
+
+💻 **Tech Enthusiast | Aspiring Software Developer**
 
 In the tech field, I have a strong foundation in:
 
-Programming Languages: Python, JavaScript, VB6
-Data Structures & Algorithms
-Database Management: Oracle
-Training Cybersecurity
+* **Programming Languages**: C, C++, Java, Python, JavaScript, TypeScript, Kotlin, VB6
+* **Web Development**: HTML5, CSS3, Bootstrap, jQuery, MERN Stack (MongoDB, Express, React, Node.js), Flutter
+* **Core Concepts**: Data Structures & Algorithms, OS Basics, Cybersecurity
 
-🚀 Current Project
+---
 
-🔹 I am working on a cross-platform multi-language compiler that integrates AI-driven assistance, aiming to enhance coding efficiency and learning experiences.
+## 📫 Connect with Me
 
-📫 Connect with Me
+💼 [LinkedIn](https://www.linkedin.com/in/theworldofsarathy)
+📧 [Email](mailto:sarathysanjay50@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/theworldofsarathy
-
-📧 Email: sarathysanjay50@gmail.com
-
-Let’s innovate and build something amazing together! 🚀✨
+✨ Let’s innovate and build something amazing together! 🚀
