@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack  
 
-- **Languages**  
+- **Programming Languages**  
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
@@ -31,9 +31,9 @@
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 - **Core Concepts**  
-  🧩 Data Structures & Algorithms  
+  🧩 Basics of Data Structures & Algorithms  
   ⚙️ Operating Systems Basics  
-  🔐 Cybersecurity  
+  🔐 Cybersecurity Basics 
 
 ---
 <!--
