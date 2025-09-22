@@ -36,13 +36,14 @@
   🔐 Cybersecurity  
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=works-of-sarathy&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=works-of-sarathy&layout=compact&theme=radical)
 
----
+--- 
+-->
 
 ## 📫 Connect With Me  
 
