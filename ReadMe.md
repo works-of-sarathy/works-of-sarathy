@@ -18,7 +18,7 @@ In the tech field, I have a strong foundation in:
 
 ## 📫 Connect with Me
 
-💼 [LinkedIn](https://www.linkedin.com/in/theworldofsarathy)
+💼 [LinkedIn](https://www.linkedin.com/in/sarathy07)
 📧 [Email](mailto:sarathysanjay50@gmail.com)
 
 ✨ Let’s innovate and build something amazing together! 🚀
